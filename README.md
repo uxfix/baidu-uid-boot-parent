@@ -1,1 +1,1 @@
-# 百度 UidGenerator start 封装
+# 百度 UidGenerator Starter 封装
